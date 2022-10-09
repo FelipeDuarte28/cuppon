@@ -1,0 +1,72 @@
+.navbar {
+    background-color: #28A745;
+}
+
+/* .cupones {
+    background-color: #28A745;
+} */
+
+.card-title {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+    color: #212529;
+}
+
+.card-text {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    color: #707070;
+    /* margin: 0; */
+}
+
+.card-location-text {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 13px;
+    color: #707070;
+    /* margin: 0; */
+}
+
+.card-price-text {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    color: #707070;
+    /* margin: 0; */
+}
+
+.card-price-text strong {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    color: #28A745;
+}
+
+.cupones p {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 21px;
+    color: #FFFFFF;
+}
+
+.form-control {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    color: #707070;    
+}
+
+.cupones button {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.footer p {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    color: #707070;
+}
